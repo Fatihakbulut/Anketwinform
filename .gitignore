@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AnketV2/bin/Debug
+/DAL/bin/Debug
+/DomainEntity/bin/Debug
+/AnketV2/obj/Debug
+/DAL/obj/Debug
+/DomainEntity/obj/Debug
